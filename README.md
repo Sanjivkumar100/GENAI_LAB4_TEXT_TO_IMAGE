@@ -167,6 +167,4 @@ IS and FID require extra GPU batch evaluation; this project focuses on loss curv
 - FID/IS evaluation pipeline  
 - Style and attribute control  
 
-## License
 
-Educational use. CUB dataset has its own terms from Caltech.
